@@ -80,3 +80,6 @@ def calsquare(thenum):
 #     print("This is the click me button")
 
 # clickme()
+
+thetesting = "Welcome to Git/Github"
+print(thetesting)
